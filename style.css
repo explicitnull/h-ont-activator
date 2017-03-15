@@ -1,0 +1,20 @@
+/* 
+    Document   : style
+    Created on : 16.09.2011, 13:28:58
+    Author     : saho
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+root { 
+    display: block;
+}
+h3 {
+  color: red;
+  font: Tahoma 2em;
+}
